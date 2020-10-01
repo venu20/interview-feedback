@@ -5,7 +5,7 @@
 - Create TODO list app , first comeup with a design(dont panic) 
   1) write down the requirements
   2) write what API's are required.
-    - List out all the API's
+    -  List out all the API's
   3) Negative scenario
   4) decide on a design pattern
 
